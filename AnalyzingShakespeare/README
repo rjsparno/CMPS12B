@@ -2,8 +2,11 @@ Name: Ryan Sparno
 cruzid: rsparno
 email: rsparno@ucsc.edu
 Create an executable jar file using make on the Unix Command Line
-Use commandline arguments java -jar Bard.jar shakespeare.txt out.txt
+Use commandline arguments java -jar Bard.jar more-input.txt out.txt
 will print results to out.txt
+
+test-input.txt follows the format of 3 0 on each where 3 is the word length and 0 is the rank of the word
+by its frequency
 
 I take in shakespeare.txt as an input file, then insert each unique word
 into a hashtable which records its frequency. Then I make an array that
