@@ -1,10 +1,14 @@
 Name: Ryan Sparno
 cruzid: rsparno
 email: rsparno@ucsc.edu
-HW5
+Create an executable jar file using make on the Unix Command Line
+Use commandline arguments java -jar Bard.jar shakespeare.txt out.txt
+will print results to out.txt
+
 I take in shakespeare.txt as an input file, then insert each unique word
 into a hashtable which records its frequency. Then I make an array that
 stores each key, and then sorts each key by their frequencies. After
 that it takes in the command line test-input file and takes in pairs
 of integers which correspond to words, and their frequency ranks
-and traverses the array until it finds the specified word
+and traverses the array until it finds the specified word.
+prints out to Output file
