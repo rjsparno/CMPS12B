@@ -1,0 +1,8 @@
+Ryan Sparno
+cruzid: rsparno
+HW2
+rsparno@ucsc.edu
+This program takes information from an input file to create 
+a chessboard, and determines if the chessboard
+is valid and determines if the piece at a certain place on the board is
+attacking another piece
