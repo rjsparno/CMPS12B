@@ -1,0 +1,5 @@
+Ryan Sparno
+cruzid: rsparno
+email: rsparno@ucsc.edu
+Takes in input from an input file for the NQueens problem and solves it
+using stacks and outputs a solution with specific locations of queens.

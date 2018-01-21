@@ -1,0 +1,15 @@
+Ryan Sparno
+cruzid: rsparno
+email: rsparno@ucsc.edu
+student id: 1518879
+files NQueens.java, Makefile, README.txt
+Solution:
+Create the board as a single dimensional array
+set the array size equal to the user input
+iterate over the array starting at 0
+using a checker to check if the solution
+up to the given index is correct, and then move on
+then once you get to the end, check if it matches
+with the specific solution in the input text
+and if it does, then print and move to the next line
+of input
